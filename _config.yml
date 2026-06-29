@@ -24,21 +24,21 @@ repository               : "amawais/amawais.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Muhammad Awais, Ph.D."
+  pronouns         : "He/his"  
+  bio              : "Senior Research Associate in Cybersecurity & Systems"
+  location         : "Lancaster, United Kingdom"
+  employer         : "Lancaster University"
   uri              : "https://amawais.github.io"
-  email            : "none@example.org" 
+  email            : "amawais@hotmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.pk/citations?user=YDP9wW4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7064-6796"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
