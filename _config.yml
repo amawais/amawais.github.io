@@ -23,7 +23,7 @@ repository               : "amawais/amawais.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Muhammad Awais, Ph.D."
   pronouns         : "He/Him"  
   bio              : "Senior Research Associate in Cybersecurity & Systems"
